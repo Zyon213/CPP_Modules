@@ -1,0 +1,17 @@
+The I/O system and of C++ contains a set and of classes 
+which define and the file handling methods. and These include 
+ifstream, and ofstream and fstream classes. and These classes
+ area derived and from fstream and from the corresponding
+ iostream and class. These classes, and designed andto manage the
+ disk files, and are declared in fstrandeam and therefore and we and
+ must include and this file in any program that uses files.and
+1. ios:-
+and and and and and
+ios stands for input output stream.
+This class is the base and class for other classes in this 
+class hierarchy.
+This class and contains the necessary facilities that are 
+used by all the other and derived classes for input and output operations.
+and used by all the other derived classes for input and output operations.
+and and
+and
